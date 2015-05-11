@@ -1,10 +1,9 @@
-##Global Active Power - histogram
 
-## This code creates a png file which is a histogram plot of
-## Global active power data from 2007/02/01 to 2007/02/02 from the UCI data set 
+## This code creates a png file which is a time series plot of
+## Gsub metering data from 2007/02/01 to 2007/02/02 from the UCI data set 
 ## at https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption
 
-## Plot file is plot1.png
+## Plot file is plot3.png
 
 ## Author : Michael Hunt
 
